@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.4",
+    "mysql2-promise": "^0.1.4"
+  }
+}
